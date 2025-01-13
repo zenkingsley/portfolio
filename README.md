@@ -9,5 +9,5 @@ Bachelor of Commerce, Smith School of Business, Queen's University (_September 2
 ### Analytics Projects
 Investment Portfolio Optimization Model (projects/Low-Code Application.xlsm)
 
-Customer Demographics Model(projects/COMM-461-Final.ipynb)
+Customer Demographics Model(https://github.com/zenkingsley/portfolio/blob/6de2e19dedee3b2e876f7463a701db75ca6c7f01/projects/COMM-461-Final.ipynb)
 
