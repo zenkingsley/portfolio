@@ -7,7 +7,7 @@
 Bachelor of Commerce, Smith School of Business, Queen's University (_September 2021 - Present_)
 
 ### Analytics Projects
-Investment Portfolio Optimization Model(projects/Low-Code Application.xlsm)
+Investment Portfolio Optimization Model (projects/Low-Code Application.xlsm)
 
 Customer Demographics Model
 
